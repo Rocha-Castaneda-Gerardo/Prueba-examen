@@ -6,3 +6,4 @@ public class Class1
 	{
 	}
 }
+Console.WriteLine("when haces tus momos en videos");
